@@ -20,7 +20,7 @@ h1 {
 
 .heading {
 	font-weight: 800;
-	color: #027c11;
+	color: #4dd637;
 }
 
 .input_div {
@@ -51,7 +51,7 @@ h1 {
 	background-color: white;
 	color: #fff;
 	margin: 0.25rem;
-	background-color: rgba(25, 190, 185, 0.485);
+	background-color: rgb(26, 106, 103);
 	cursor: pointer;
 }
 
@@ -88,7 +88,7 @@ h1 {
 	font-family: "Bebas Neue", cursive;
 	background: none;
 	outline: none;
-	color: #383cc1;
+	color: #00abda;
 	border: none;
 	cursor: pointer;
 }
